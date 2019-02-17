@@ -1,0 +1,26 @@
+{
+  "name": "LIRIBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChadDunnam/LIRIBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChadDunnam/LIRIBot/issues"
+  },
+  "homepage": "https://github.com/ChadDunnam/LIRIBot#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^6.2.0",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.0.7"
+  }
+}
